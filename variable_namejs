@@ -30,3 +30,7 @@ var userHomeAddress = "lalkhan bazar"; //camel case, we will use this in javascr
 var UserHomeAddress = "lalkhan bajar"; // pascal case
 
 
+// variable name is case sensitive
+
+var person = 36;
+var Person = 25;
